@@ -15,6 +15,7 @@ using Umbraco.Cms.Core.Services;
 using Umbraco.Cms.Core.Strings;
 using Umbraco.Cms.Web.Common;
 using Member = Umbraco.Cms.Web.Common.PublishedModels.Member;
+using Umbraco.Extensions;
 
 namespace SGFDevs.Controllers;
 
