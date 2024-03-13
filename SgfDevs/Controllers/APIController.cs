@@ -17,6 +17,7 @@ using Umbraco.Cms.Web.Common;
 using Member = Umbraco.Cms.Web.Common.PublishedModels.Member;
 using Umbraco.Extensions;
 using Tag = Umbraco.Cms.Web.Common.PublishedModels.Tag;
+using Umbraco.Cms.Core.Models;
 
 namespace SGFDevs.Controllers;
 
